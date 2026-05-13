@@ -5,7 +5,7 @@ modernization and AI-augmented developer tooling (MCP integrations).
 
 **Currently building:** [MCP server for financial data] | [other project]
 
-**Background:** B.S. CS @ Arizona State (Magna Cum Laude, '25)
+**Background:** B.S. CS @ Arizona State 
 
 **Interests:** Fintech infrastructure, AI-native engineering, MCP, full-stack systems
 
