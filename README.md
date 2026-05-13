@@ -1,8 +1,8 @@
 ### Hi, I'm Rushil 👋
 
-Im a Software Engineer who is interested in building new Finetech Applications
+Im a Software Engineer who is interested in building new FinTech applications
 
-**Currently building:** [MCP server for financial data] | [other project]
+**Currently building:** Tonecard, which is a better way to find music based on music you have plotted
 
 **Background:** B.S. CS @ Arizona State 
 
