@@ -1,7 +1,6 @@
 ### Hi, I'm Rushil 👋
 
-Software Engineer at Wells Fargo working on Counterparty Credit Risk 
-modernization and AI-augmented developer tooling (MCP integrations).
+Im a Software Engineer who is interested in building new Finetech Applications
 
 **Currently building:** [MCP server for financial data] | [other project]
 
