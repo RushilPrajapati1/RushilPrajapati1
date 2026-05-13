@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Rushil 👋
 
-<!--
-**RushilPrajapati1/RushilPrajapati1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at Wells Fargo working on Counterparty Credit Risk 
+modernization and AI-augmented developer tooling (MCP integrations).
 
-Here are some ideas to get you started:
+**Currently building:** [MCP server for financial data] | [other project]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:** B.S. CS @ Arizona State (Magna Cum Laude, '25)
+
+**Interests:** Fintech infrastructure, AI-native engineering, MCP, full-stack systems
+
+**Tech I work with:** Java • Spring Boot • React • TypeScript • Python • 
+MCP • REST APIs
+
+📫 rushilvprajapati@gmail.com | [LinkedIn](your-linkedin-url)
