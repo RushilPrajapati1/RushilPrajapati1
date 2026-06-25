@@ -2,8 +2,6 @@
 
 Im a Software Engineer who is interested in building new FinTech applications
 
-**Currently building:** Tonecard, which is a better way to find music based on music you have plotted
-
 **Background:** B.S. CS @ Arizona State 
 
 **Interests:** Fintech infrastructure, AI-native engineering, MCP, full-stack systems
